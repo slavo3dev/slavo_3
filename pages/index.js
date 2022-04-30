@@ -19,12 +19,12 @@ const Index2 = () => {
                                             Committed to <span className="text-blue-500">People</span> and the future
                                         </h2>
                                         <p className="text-blueGray-400 leading-relaxed wow animate__animated animate__fadeIn">
-                                            We are <strong className="text-blue-500">Prototype.NEXT</strong>, a Creative Educative{" "}
+                                            We are <strong className="text-blue-500">Prototype.NEXT</strong>, a Creative{" "}
                                             <span className="typewrite d-inline text-brand">
-                                                <TextEffect text1="Web Agency" text2="Social Marketing" />
+                                                <TextEffect text1="Mentorship Agency" text2="Consulting Agency" />
                                             </span>
                                         </p>
-                                        <p className="text-blueGray-400 leading-relaxed wow animate__animated animate__fadeIn mt-3 text-sm">Helping you maximize operations management with digitization</p>
+                                        <p className="text-blueGray-400 leading-relaxed wow animate__animated animate__fadeIn mt-3 text-sm">We are helping You to make a career change and achieve personal growth.</p>
                                     </div>
                                     <div className="text-center lg:text-left">
                                         <a className="tracking-wide hover-up-2 block sm:inline-block py-4 px-8 mb-4 sm:mb-0 sm:mr-3 text-xs text-white text-center font-semibold leading-none bg-blue-400 hover:bg-blue-500 rounded wow animate__animated animate__fadeIn" href="#key-features">
@@ -60,7 +60,7 @@ const Index2 = () => {
                             </div>
                             <div className="w-full lg:w-1/2">
                                 <p className="lg:pl-16 text-blueGray-400 leading-loose wow animate__animated animate__fadeIn" data-wow-delay=".4s">
-                                    Business solution company sit our any how site used the our company any site us it-solve theme is very professional theme business & corporate, finance, advisor, solution, company and all project used, there are all kinds of websites here.
+                                    Look for ways to develop new skills in your current job which would pave the way for a change e.g. offer to write a grant proposal if grant writing is valued in your new field. If your company offers in-house training, sign up for as many classes as you can. There are ways you can position yourself for a career change without having to go back to school.
                                 </p>
                             </div>
                         </div>
@@ -72,8 +72,8 @@ const Index2 = () => {
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6V4m0 2a2 2 0 100 4m0-4a2 2 0 110 4m-6 8a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4m6 6v10m6-2a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4"></path>
                                         </svg>
                                     </div>
-                                    <h3 className="mb-2 font-bold font-heading">IT Consultancy</h3>
-                                    <p className="text-sm text-blueGray-400">We believe brand interaction is key to communication. Real innovations and positive customer experience are the heart of success.</p>
+                                    <h3 className="mb-2 font-bold font-heading">Microlearning</h3>
+                                    <p className="text-sm text-blueGray-400">Microlearning deals with relatively small learning units and short-term learning activities.</p>
                                 </div>
                             </div>
                             <div className="w-full md:w-1/2 lg:w-1/4 px-3 mb-6">
@@ -83,8 +83,8 @@ const Index2 = () => {
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 13.255A23.931 23.931 0 0112 15c-3.183 0-6.22-.62-9-1.745M16 6V4a2 2 0 00-2-2h-4a2 2 0 00-2 2v2m4 6h.01M5 20h14a2 2 0 002-2V8a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path>
                                         </svg>
                                     </div>
-                                    <h3 className="mb-2 font-bold font-heading">Web Development</h3>
-                                    <p className="text-sm text-blueGray-400">We believe brand interaction is key to communication. Real innovations and positive customer experience are the heart of success.</p>
+                                    <h3 className="mb-2 font-bold font-heading">Deliberate practice</h3>
+                                    <p className="text-sm text-blueGray-400">Deliberate practice is defined as being effortful in nature, with the main goal of personal improvement of performance!</p>
                                 </div>
                             </div>
                             <div className="w-full md:w-1/2 lg:w-1/4 px-3 mb-6">
@@ -94,8 +94,8 @@ const Index2 = () => {
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"></path>
                                         </svg>
                                     </div>
-                                    <h3 className="mb-2 font-bold font-heading">App Development</h3>
-                                    <p className="text-sm text-blueGray-400">We believe brand interaction is key to communication. Real innovations and positive customer experience are the heart of success.</p>
+                                    <h3 className="mb-2 font-bold font-heading">Spaced repetition</h3>
+                                    <p className="text-sm text-blueGray-400">Spaced repetition is an evidence-based learning technique that is usually performed with flashcards.</p>
                                 </div>
                             </div>
                             <div className="w-full md:w-1/2 lg:w-1/4 px-3 mb-6">
@@ -106,8 +106,8 @@ const Index2 = () => {
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20.488 9H15V3.512A9.025 9.025 0 0120.488 9z"></path>
                                         </svg>
                                     </div>
-                                    <h3 className="mb-2 font-bold font-heading">Digital Marketing</h3>
-                                    <p className="text-sm text-blueGray-400">We believe brand interaction is key to communication. Real innovations and positive customer experience are the heart of success.</p>
+                                    <h3 className="mb-2 font-bold font-heading">Mentorship</h3>
+                                    <p className="text-sm text-blueGray-400">A good mentor helps a mentee to make decisions that help them reach their goals. Mentor builds a mentees confidence</p>
                                 </div>
                             </div>
                         </div>
@@ -122,7 +122,7 @@ const Index2 = () => {
                                         Great Things In Business Are <span className="text-blue-600">Never Done</span> By One Person.
                                     </h2>
                                     <p className="mb-8 leading-loose text-blueGray-400 wow animate__animated animate__fadeIn" data-wow-delay=".3s">
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sagittis, quam nec venenatis lobortis, mi risus tempus nulla, sed porttitor est nibh at nulla. Praesent placerat enim ut ex tincidunt vehicula. Fusce sit amet dui tellus.
+                                      Working with a team means there will be varying opinions and ideas. Even if you think your idea is best, you should listen to all ideas before pushing yours. Search for compromises, and remain respectful if your work is criticized.
                                     </p>
                                     <Link href="/services">
                                         <a className="inline-block text-xs py-4 px-8 text-white font-semibold leading-none bg-blue-400 hover:bg-blue-500 rounded hover-up-2 wow animate__animated animate__fadeIn" data-wow-delay=".5s">
