@@ -119,7 +119,7 @@ const Home = () => {
                             <div className="w-full lg:w-1/2 px-8">
                                 <div className="mb-12 lg:mb-0 pb-12 lg:pb-0 border-b lg:border-b-0">
                                     <h2 className="mb-4 text-3xl lg:text-4xl font-bold font-heading max-w-md wow animate__animated animate__fadeIn" data-wow-delay=".1s">
-                                        Great Things In Business Are <span className="text-blue-600">Never Done</span> By One Person.
+                                        Commit<span className="text-blue-600">to</span> Your Personal Growth.
                                     </h2>
                                     <p className="mb-8 leading-loose text-blueGray-400 wow animate__animated animate__fadeIn" data-wow-delay=".3s">
                                       Working with a team means there will be varying opinions and ideas. Even if you think your idea is best, you should listen to all ideas before pushing yours. Search for compromises, and remain respectful if your work is criticized.
