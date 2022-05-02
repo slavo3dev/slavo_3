@@ -22,18 +22,18 @@ const Header = ({handleHidden}) => {
                                 <img
                                     className="h-10"
                                     src="/assets/imgs/logos/monst-logo.svg"
-                                    alt="Monst"
+                                    alt="Slavo_3"
                                 />
                             </a>
                         </Link>
                         <ul className="hidden lg:flex lg:items-center lg:w-auto lg:space-x-12">
-                            <li className="group relative pt-4 pb-4 has-child">
+                            <li className="group relative pt-4 pb-4">
                                 <Link href="/">
                                     <a className="text-sm font-semibold text-blueGray-600 hover:text-blueGray-500">
                                         Home
                                     </a>
                                 </Link>
-                                <ul className="drop-down-menu min-w-200">
+                                {/* <ul className="drop-down-menu min-w-200">
                                     <li>
                                         <Link href="/">
                                             <a className="menu-sub-item text-sm text-blueGray-600 hover:text-blueGray-500">
@@ -69,7 +69,7 @@ const Header = ({handleHidden}) => {
                                             </a>
                                         </Link>
                                     </li>
-                                </ul>
+                                </ul> */}
                             </li>
                             <li className="pt-4 pb-4">
                                 <Link href="/about">
@@ -85,7 +85,7 @@ const Header = ({handleHidden}) => {
                                     </a>
                                 </Link>
                             </li>
-                            <li className="group relative pt-4 pb-4 has-child">
+                            {/* <li className="group relative pt-4 pb-4 has-child">
                                 <Link href="#">
                                     <a className="text-sm font-semibold text-blueGray-600 hover:text-blueGray-500">
                                         Company
@@ -135,8 +135,8 @@ const Header = ({handleHidden}) => {
                                         </Link>
                                     </li>
                                 </ul>
-                            </li>
-                            <li className="group relative pt-4 pb-4 has-child">
+                            </li> */}
+                            {/* <li className="group relative pt-4 pb-4 has-child">
                                 <Link href="#">
                                     <a className="text-sm font-semibold text-blueGray-600 hover:text-blueGray-500">
                                         Blog
@@ -172,7 +172,7 @@ const Header = ({handleHidden}) => {
                                         </Link>
                                     </li>
                                 </ul>
-                            </li>
+                            </li> */}
                             <li className="pt-4 pb-4">
                                 <Link href="/contact">
                                     <a className="text-sm font-semibold text-blueGray-600 hover:text-blueGray-500">
@@ -181,7 +181,7 @@ const Header = ({handleHidden}) => {
                                 </Link>
                             </li>
                         </ul>
-                        <div className="hidden lg:block">
+                        {/* <div className="hidden lg:block">
                             <Link href="/login">
                                 <a className="btn-accent hover-up-2">Log In</a>
                             </Link>
@@ -190,12 +190,12 @@ const Header = ({handleHidden}) => {
                                     Sign Up
                                 </a>
                             </Link>
-                        </div>
+                        </div> */}
                         <div className="lg:hidden">
                             <button className="navbar-burger flex items-center py-2 px-3 text-blue-500 hover:text-blue-700 rounded border border-blue-200 hover:border-blue-300" onClick={handleHidden}>
                                 <svg
                                     className="fill-current h-4 w-4"
-                                    viewbox="0 0 20 20"
+                                    viewBox="0 0 20 20"
                                     xmlns="http://www.w3.org/2000/svg"
                                 >
                                     <title>Mobile menu</title>
