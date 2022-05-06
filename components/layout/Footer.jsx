@@ -16,24 +16,24 @@ const Footer = () => {
                         </div>
                         <div className="w-full lg:w-2/5 px-3 mb-8 lg:mb-0">
                             <p className="max-w-md mx-auto lg:max-w-full lg:mx-0 lg:pr-32 lg:text-lg text-blueGray-400 leading-relaxed">
-                                Helping you <strong>maximize</strong> operations management with digitization
+                                Helping you <strong>maximize</strong> your personal growth! 
                             </p>
                         </div>
                         <div className="w-full lg:w-1/5 px-3 mb-8 lg:mb-0">
                             <p className="mb-2 lg:mb-4 lg:text-lg font-bold font-heading text-blueGray-800">Office</p>
-                            <p className="lg:text-lg text-blueGray-400">359 Hidden Valley Road, NY</p>
+                            <p className="lg:text-lg text-blueGray-400">151 SE 1st Street<br /> Miami FL</p>
                         </div>
                         <div className="w-full lg:w-1/5 px-3">
                             <p className="mb-2 lg:mb-4 lg:text-lg font-bold font-heading text-blueGray-800">Contacts</p>
-                            <p className="lg:text-lg text-blueGray-400">(+01) 234 568</p>
-                            <p className="lg:text-lg text-blueGray-400">contact@monst.com</p>
+                            <p className="lg:text-lg text-blueGray-400"><a href="tel:786-702-4261">+1-786-702-4261</a></p>
+                            <p className="lg:text-lg text-blueGray-400">slavo@slavo3.com</p>
                         </div>
                     </div>
                     <div className="flex flex-col lg:flex-row items-center lg:justify-between">
                         <p className="text-sm text-blueGray-400">
                             &copy; 2022. All rights reserved. Designed by{" "}
-                            <a className="text-blue-400" href="https://alithemes.com" target="_blank">
-                                Alithemes.com
+                            <a className="text-blue-400" href="https://www.prototypenext.com" target="_blank">
+                                prototypenext.com
                             </a>
                         </p>
                         <div className="order-first lg:order-last -mx-2 mb-4 lg:mb-0">

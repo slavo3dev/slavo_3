@@ -119,7 +119,7 @@ const Home = () => {
                             <div className="w-full lg:w-1/2 px-8">
                                 <div className="mb-12 lg:mb-0 pb-12 lg:pb-0 border-b lg:border-b-0">
                                     <h2 className="mb-4 text-3xl lg:text-4xl font-bold font-heading max-w-md wow animate__animated animate__fadeIn" data-wow-delay=".1s">
-                                        Commit<span className="text-blue-600">to</span> Your Personal Growth.
+                                        Commit<span className="text-blue-600">{" "}to</span> Your Personal Growth.
                                     </h2>
                                     <p className="mb-8 leading-loose text-blueGray-400 wow animate__animated animate__fadeIn" data-wow-delay=".3s">
                                       Working with a team means there will be varying opinions and ideas. Even if you think your idea is best, you should listen to all ideas before pushing yours. Search for compromises, and remain respectful if your work is criticized.
@@ -174,7 +174,7 @@ const Home = () => {
                                         Simple Solution for <span className="text-blue-500">Complex</span> Connections
                                     </h2>
                                     <p className="text-xs md:text-base text-blueGray-400 leading-loose wow animate__animated animate__fadeIn" data-wow-delay=".9s">
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed luctus eget justo et iaculis.
+                                      A software solution is typically custom-built or configured to solve a specific customer problem.
                                     </p>
                                 </div>
                                 <div className="lg:absolute lg:bottom-0 lg:left-0 flex justify-center wow animate__animated animate__fadeIn" data-wow-delay=".5s">
@@ -247,8 +247,8 @@ const Home = () => {
                             </div>
                             <div className="relative w-full md:w-1/2 lg:w-3/5 px-3 bg-blue-500 rounded-r overflow-hidden">
                                 <div className="max-w-sm px-12 pt-12">
-                                    <span className="text-xs text-blue-200">Various Analysis Options</span>
-                                    <h3 className="mb-4 text-4xl font-bold font-heading text-white">Techno Provides Realtime Best Data Solutions.</h3>
+                                    <span className="text-xs text-blue-200">Work & Learn & Grow</span>
+                                    <h3 className="mb-4 text-4xl font-bold font-heading text-white">Prototype.NEXT Realtime Software Project.</h3>
                                 </div>
                                 <div className="absolute right-0 bottom-0">
                                     <div className="flex items-center h-full">
@@ -277,8 +277,8 @@ const Home = () => {
                                     </svg>
                                     <div className="leading-relaxed">
                                         <span className="text-sm text-blueGray-400">Phone</span>
-                                        <p>+ 48 654-430-309</p>
-                                        <p>+ 1 6532-430-309</p>
+                                        <p><a href="tel:786-702-4261">+ 1 786-702-4261</a></p>
+                                        <p><a href="tel:305-560-0950">+ 1 305-560-0950</a></p>
                                     </div>
                                 </div>
                                 <div className="w-1/2 lg:w-1/3 px-3 mb-12 wow animate__animated animate__fadeIn animated" data-wow-delay=".3s">
@@ -287,8 +287,8 @@ const Home = () => {
                                     </svg>
                                     <div className="leading-relaxed">
                                         <span className="text-sm text-blueGray-400">E-mail</span>
-                                        <p>contact@monst.com</p>
-                                        <p>pat@example.com</p>
+                                        <p>info@prototypenext.com</p>
+                                        <p>slavo@slavo3.com</p>
                                     </div>
                                 </div>
                                 <div className="w-full lg:w-1/3 px-3 mb-12 wow animate__animated animate__fadeIn animated" data-wow-delay=".5s">
@@ -298,13 +298,13 @@ const Home = () => {
                                     </svg>
                                     <div className="leading-relaxed">
                                         <span className="text-sm text-blueGray-400">Address</span>
-                                        <p>11567 E Broadview Dr</p>
-                                        <p>Colorado(CO), 80117</p>
+                                        <p>151 SE 1st Street</p>
+                                        <p>Miami(FL), 33131</p>
                                     </div>
                                 </div>
                             </div>
                             <div>
-                                <form>
+                                {/* <form>
                                     <div className="mb-4 text-sm wow animate__animated animate__fadeIn animated" data-wow-delay=".1s">
                                         <span className="mr-4 font-semibold">Departament:</span>
                                         <label className="mr-4">
@@ -347,7 +347,7 @@ const Home = () => {
                                             Submit
                                         </button>
                                     </div>
-                                </form>
+                                </form> */}
                             </div>
                         </div>
                     </div>

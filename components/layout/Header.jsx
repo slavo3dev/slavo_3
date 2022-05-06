@@ -21,7 +21,7 @@ const Header = ({handleHidden}) => {
                             <a className="text-3xl font-semibold leading-none">
                                 <img
                                     className="h-10"
-                                    src="/assets/imgs/logos/monst-logo.svg"
+                                    src="/assets/imgs/logos/slavo_3_logo.svg"
                                     alt="Slavo_3"
                                 />
                             </a>
