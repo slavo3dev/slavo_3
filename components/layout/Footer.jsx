@@ -10,7 +10,7 @@ const Footer = () => {
                         <div className="w-full lg:w-1/5 px-3 mb-6 lg:mb-0">
                             <Link href="/">
                                 <a className="inline-block mx-auto lg:mx-0 text-3xl font-semibold leading-none">
-                                    <img className="h-10" src="/assets/imgs/logos/monst-logo.svg" alt="Monst" />
+                                    <img className="h-10" src="/assets/imgs/logos/slavo_3_logo.svg" alt="Slavo_3 && Prototype.NEXT" />
                                 </a>
                             </Link>
                         </div>
@@ -37,14 +37,17 @@ const Footer = () => {
                             </a>
                         </p>
                         <div className="order-first lg:order-last -mx-2 mb-4 lg:mb-0">
-                            <a className="inline-block px-2" href="https://facebook.com">
-                                <img src="/assets/imgs/icons/facebook-blue.svg" alt="Monst" />
+                            <a className="inline-block px-2" href="https://www.facebook.com/prototypenext">
+                                <img src="/assets/imgs/icons/facebook-blue.svg" alt="Slavo3 && Prototype.NEXT" />
                             </a>
-                            <a className="inline-block px-2" href="https://twitter.com">
-                                <img src="/assets/imgs/icons/twitter-blue.svg" alt="Monst" />
+                            <a className="inline-block px-2" href="https://twitter.com/slavo3dev">
+                                <img src="/assets/imgs/icons/twitter-blue.svg" alt="Slavo3 && Prototype.NEXT" />
                             </a>
-                            <a className="inline-block px-2" href="https://www.instagram.com">
-                                <img src="/assets/imgs/icons/instagram-blue.svg" alt="Monst" />
+                            <a className="inline-block px-2" href="https://www.instagram.com/slavo_3/">
+                                <img src="/assets/imgs/icons/instagram-blue.svg" alt="Slavo3 && Prototype.NEXT" />
+                            </a>
+                             <a className="inline-block px-2" href="https://www.instagram.com/prototypenext/">
+                                <img src="/assets/imgs/icons/instagram-blue.svg" alt="Slavo3 && Prototype.NEXT" />
                             </a>
                         </div>
                     </div>

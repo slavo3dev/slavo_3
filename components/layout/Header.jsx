@@ -22,7 +22,7 @@ const Header = ({handleHidden}) => {
                                 <img
                                     className="h-10"
                                     src="/assets/imgs/logos/slavo_3_logo.svg"
-                                    alt="Slavo_3"
+                                    alt="Slavo_3 && Prototype.NEXT"
                                 />
                             </a>
                         </Link>
