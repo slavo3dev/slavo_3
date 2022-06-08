@@ -60,7 +60,7 @@ const Home = () => {
                             </div>
                             <div className="w-full lg:w-1/2">
                                 <p className="lg:pl-16 text-blueGray-400 leading-loose wow animate__animated animate__fadeIn" data-wow-delay=".4s">
-                                    Look for ways to develop new skills in your current job which would pave the way for a change e.g. offer to write a grant proposal if grant writing is valued in your new field. If your company offers in-house training, sign up for as many classes as you can. There are ways you can position yourself for a career change without having to go back to school.
+                                    Look for ways to develop new skills in your current job which would have the way for a change e.g. offer to write a grant proposal if grant writing is valued in your new field. If your company offers in-house training, sign up for as many classes as you can. There are ways you can position yourself for a career change without having to go back to school.
                                 </p>
                             </div>
                         </div>
