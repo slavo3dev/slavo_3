@@ -19,12 +19,12 @@ const Home = () => {
                                             Committed to <span className="text-blue-500">People</span> and the future
                                         </h2>
                                         <p className="text-blueGray-400 leading-relaxed wow animate__animated animate__fadeIn">
-                                            We are <strong className="text-blue-500">Prototype.NEXT</strong>, a Creative{" "}
+                                            We are <strong className="text-blue-500">felpApp</strong>, a Creative{" "}
                                             <span className="typewrite d-inline text-brand">
                                                 <TextEffect text1="Mentorship Agency" text2="Consulting Agency" />
                                             </span>
                                         </p>
-                                        <p className="text-blueGray-400 leading-relaxed wow animate__animated animate__fadeIn mt-3 text-sm">We are helping You to make a career change and achieve personal growth.</p>
+                                        <p className="text-blueGray-400 leading-relaxed wow animate__animated animate__fadeIn mt-3 text-sm">We are helping You to make a career change and achieve personal & business growth.</p>
                                     </div>
                                     <div className="text-center lg:text-left">
                                         <a className="tracking-wide hover-up-2 block sm:inline-block py-4 px-8 mb-4 sm:mb-0 sm:mr-3 text-xs text-white text-center font-semibold leading-none bg-blue-400 hover:bg-blue-500 rounded wow animate__animated animate__fadeIn" href="#key-features">
@@ -59,8 +59,9 @@ const Home = () => {
                                 </h2>
                             </div>
                             <div className="w-full lg:w-1/2">
-                                <p className="lg:pl-16 text-blueGray-400 leading-loose wow animate__animated animate__fadeIn" data-wow-delay=".4s">
-                                    Look for ways to develop new skills in your current job which would have the way for a change e.g. offer to write a grant proposal if grant writing is valued in your new field. If your company offers in-house training, sign up for as many classes as you can. There are ways you can position yourself for a career change without having to go back to school.
+                                <p className="lg:pl-16 text-blueGray-400 leading-loose wow animate__animated animate__fadeIn" data-wow-delay=".4s">    
+                                    Skill development and training helps instill emotional maturity in pupils. Learning new skills requires students to be willing to experiment. While doing so, they might face failures and disappointments but that will eventually prepare them to accept failures gracefully and develop a 'NEVER GIVE UP' attitude<br />
+                                    There are ways you can position yourself for a career change without having to go back to school.
                                 </p>
                             </div>
                         </div>
@@ -248,7 +249,7 @@ const Home = () => {
                             <div className="relative w-full md:w-1/2 lg:w-3/5 px-3 bg-blue-500 rounded-r overflow-hidden">
                                 <div className="max-w-sm px-12 pt-12">
                                     <span className="text-xs text-blue-200">Work & Learn & Grow</span>
-                                    <h3 className="mb-4 text-4xl font-bold font-heading text-white">Prototype.NEXT Realtime Software Project.</h3>
+                                    <h3 className="mb-4 text-4xl font-bold font-heading text-white">felpApp Realtime Software Project.</h3>
                                 </div>
                                 <div className="absolute right-0 bottom-0">
                                     <div className="flex items-center h-full">
@@ -287,7 +288,7 @@ const Home = () => {
                                     </svg>
                                     <div className="leading-relaxed">
                                         <span className="text-sm text-blueGray-400">E-mail</span>
-                                        <p>info@prototypenext.com</p>
+                                        <p>info@felpapp.com</p>
                                         <p>slavo@slavo3.com</p>
                                     </div>
                                 </div>

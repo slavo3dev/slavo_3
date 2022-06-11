@@ -20,8 +20,8 @@ const Header = ({handleHidden}) => {
                         <Link href="/">
                             <a className="text-3xl font-semibold leading-none">
                                 <img
-                                    className="h-10"
-                                    src="/assets/imgs/logos/slavo_3_logo.svg"
+                                    className="h-20"
+                                    src="/assets/imgs/logos/felpapp_logo.svg"
                                     alt="Slavo_3 && Prototype.NEXT"
                                 />
                             </a>

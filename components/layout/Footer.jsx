@@ -10,7 +10,7 @@ const Footer = () => {
                         <div className="w-full lg:w-1/5 px-3 mb-6 lg:mb-0">
                             <Link href="/">
                                 <a className="inline-block mx-auto lg:mx-0 text-3xl font-semibold leading-none">
-                                    <img className="h-10" src="/assets/imgs/logos/slavo_3_logo.svg" alt="Slavo_3 && Prototype.NEXT" />
+                                    <img className="h-20" src="/assets/imgs/logos/felpapp_logo.svg" alt="Slavo_3 && Prototype.NEXT" />
                                 </a>
                             </Link>
                         </div>
